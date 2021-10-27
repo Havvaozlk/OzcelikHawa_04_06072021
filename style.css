@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+}
+
+header {
+background-color: #F3976C;
+height: 7rem;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+header img {
+    margin: 0rem 0 0 1rem;
+width: 18rem;
+}
+
+section h2 {
+    display: flex;
+justify-content: center;
+font-size: x-large;
+margin-top: 3rem;
+}
+
+section div  {
+    display: flex;
+justify-content: space-around;
+margin-top: 3rem;
+}
+
+section div a {
+    text-decoration: none;
+color: black;
+border: solid 0px transparent;
+background-color: #F3976C;
+padding: 1rem;
+border-radius: 25px;
+box-shadow: 3px 3px 9px gray;
+}
+
+
+
