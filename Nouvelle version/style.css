@@ -746,6 +746,11 @@ h3{
     font-size:13px
 }
 
+.reseaux {
+    width: 48px;
+    height: 48px;
+    display: block;
+
 @media (max-width:1024px){
     .bloc{
         padding-left:20px;
