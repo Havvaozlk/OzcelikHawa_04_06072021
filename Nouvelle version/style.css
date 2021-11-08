@@ -442,7 +442,7 @@ nav .caret{
 .scrollToTop{
     width:40px;
     height:40px;
-    position:fixed
+    position:fixed;
     bottom:20px;
     right:20px;
     opacity:0;
@@ -616,7 +616,7 @@ p{
 }
 
 .cta-hero{
-    margin-top:22px
+    margin-top:22px;
     color:#FFF!important;
     padding:12px 28px;
     font-size:16px
